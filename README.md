@@ -14,3 +14,5 @@ Configurable:
 * Max time
 
 ## Cite
+
+Garber, L. (2019). Variation Sets extractor. Zenodo. https://doi.org/10.5281/zenodo.3377965
